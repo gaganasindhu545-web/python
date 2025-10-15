@@ -1,0 +1,4 @@
+ame="aditya"
+roll=20
+print("my name is",name)
+print("I am",age,"year old")
