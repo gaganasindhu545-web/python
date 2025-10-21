@@ -1,0 +1,6 @@
+name="sindhu"
+rollno=141
+collegename="aditya"
+print("my name",name)
+print("rollno is",rollno)
+print("collegename is",collegename);
