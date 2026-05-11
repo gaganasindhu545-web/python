@@ -1,3 +1,0 @@
-import keyword
-print("list of python keywords:")
-print(keyword.kwlist)
