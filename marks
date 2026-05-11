@@ -1,3 +1,0 @@
-math,science=80,90
-print("math marks:",math)
-print("science marks:",science)
